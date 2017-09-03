@@ -1,3 +1,2 @@
-# csv-to-json-convertor
-csv to json convertor
+csv or xslx to json convertor
 Python Script
